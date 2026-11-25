@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.enzoassimos.mordravak",
+      "sha256_cert_fingerprints": ["4A:8A:17:B7:72:E7:FE:E2:A5:D5:9B:73:E1:76:12:F6:A2:38:8C:C2:B8:88:38:D1:50:EF:87:BC:8E:25:47:34"]
+    }
+  }
+]
